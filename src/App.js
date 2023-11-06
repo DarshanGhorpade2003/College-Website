@@ -25,7 +25,7 @@ function App() {
     <div>
     
       <div className='nav'>
-        <img src= {Stjit} alt='Logo'></img>
+        <img src= {Stjit} alt=''></img>
         <h2 classname='footer'>Home</h2>
         <h3 className='footer'>About</h3>
         <h3 className='footer'>Admissions</h3>
@@ -37,7 +37,7 @@ function App() {
         <h3 classname="Photo">Welcome To Our College</h3>
       </div>
       <div className="First">
-      <img src= {Front} alt='View'></img>
+      <img src= {Front} alt=''></img>
       <img src= {Circle} alt=''></img>
       </div>
       <div className='Second'>
@@ -48,7 +48,7 @@ function App() {
       <img src={Library} alt=' '><img>
       </div>
       <div classname="Profile">
-       <h1 className="Profile" A Commitment to Technical Education></h1> 
+       <h1 className="Profile"> A Commitment to Technical Education </h1> 
       </div>
     
   
