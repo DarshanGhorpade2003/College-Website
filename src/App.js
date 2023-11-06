@@ -25,7 +25,7 @@ function App() {
     <div>
     
       <div className='nav'>
-        <img src= {Stjit} alt='i'></img>
+        <img src= {Stjit} alt='collage-logo'></img>
         <h2 classname='footer'>Home</h2>
         <h3 className='footer'>About</h3>
         <h3 className='footer'>Admissions</h3>
@@ -33,19 +33,19 @@ function App() {
         <h3 className='footer'>Placements</h3>
       </div>
       <div >
-        <img src= {Campus} alt='c'></img><br></br>
+        <img src= {Campus} alt='collage'></img><br></br>
         <h3 classname="Photo">Welcome To Our College</h3>
       </div>
       <div className="First">
-      <img src= {Front} alt='a'></img>
-      <img src= {Circle} alt='b'></img>
+        <img src= {Front} alt='collagefront'></img>
+       <img src= {Circle} alt='circle'></img>
       </div>
       <div className='Second'>
-      <img src= {Swamiji} alt='d'></img><br></br>
+        <img src= {Swamiji} alt='second'></img><br></br>
       </div> 
       <div className="Third">
-      <img src={Lab} alt=''></img>
-      <img src={Library} alt='e'><img>
+        <img src={Lab} alt='labs'></img>
+        <img src={Library} alt='library'></img>
       </div>
       <div classname="Profile">
        <h1 className="Profile"> A Commitment to Technical Education </h1> 
@@ -55,10 +55,6 @@ function App() {
 
       </div>
 
-      
-      
-      
-      
 
     </div>
   );
