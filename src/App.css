@@ -1,0 +1,53 @@
+.contact{ 
+  padding: 25px;
+}
+.contact{
+  margin-right: 20px;
+}
+.header{
+  
+  display: flex ;
+  background-color: gray;
+  color: white;
+}
+.header{
+  margin-right: auto;
+  height: auto;
+  font-size: 10px;
+}
+ .footer{
+  padding: 25px;
+  margin-right: 20px;
+ }
+ .nav{
+  display: flex;
+  background-color: green;
+  color: black;
+ }
+ .photo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: green;
+ }
+ .photo{
+   display: flex 20px;
+   margin-right: 100CM;
+ }
+ .Swamiji.jpg{
+  align-self: center;
+ }
+ .Second{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .First{
+  display: flex;
+  justify-content:last baseline;
+  align-items: left;
+ 
+
+ }
+ 
