@@ -34,7 +34,7 @@ function App() {
       </div>
       <div >
         <img src= {Campus} alt='collage'></img><br></br>
-        <h3 classname="Photo">Welcome To Our College</h3>
+        <h4 classname="Photo">Welcome To Our College </h4 >
       </div>
       <div className="First">
         <img src= {Front} alt='collagefront'></img>
