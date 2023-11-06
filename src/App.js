@@ -33,19 +33,19 @@ function App() {
         <h3 className='footer'>Placements</h3>
       </div>
       <div >
-        <img src= {Campus} alt='Photo'></img><br></br>
+        <img src= {Campus} alt=''></img><br></br>
         <h3 classname="Photo">Welcome To Our College</h3>
       </div>
       <div className="First">
       <img src= {Front} alt='View'></img>
-      <img src= {Circle} alt='Photo'></img>
+      <img src= {Circle} alt=''></img>
       </div>
       <div className='Second'>
-      <img src= {Swamiji} alt='Photo'></img><br></br>
+      <img src= {Swamiji} alt=''></img><br></br>
       </div> 
       <div className="Third">
-      <img src={Lab} alt='Photo'></img>
-      <img src={Library alt='Photo'}></img>
+      <img src={Lab} alt=''></img>
+      <img src={Library} alt=' '><img>
       </div>
       <div classname="Profile">
        <h1 className="Profile" A Commitment to Technical Education></h1> 
