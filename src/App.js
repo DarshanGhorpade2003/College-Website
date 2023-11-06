@@ -48,7 +48,7 @@ function App() {
       <img src={Library alt='Photo'}></img>
       </div>
       <div classname="Profile">
-       <h1 className='Profile' A Commitment to Technical Education></h1> 
+       <h1 className="Profile" A Commitment to Technical Education></h1> 
       </div>
     
   
